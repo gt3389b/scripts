@@ -1,0 +1,3 @@
+setup_android_environ.sh      - Sets up a Ubuntu 10.4 environment to compile the Android stack
+gcc_switch.sh                 - Queries the available gcc versions and allows the user to change
+                                 the default version
